@@ -9,4 +9,5 @@ Python36-32". Take notes: each path are seperated by ";".
 3. click "edit" --> select "edit text"
 4. find all Python path in your computer, copy these paths and paste in the text. If you don't kown your Python path, in "commond line"
 type "python" --> "import sys" --> "sys.path", then you can find some paths like examples in step.2.
-5. in "commond line" 
+5. you'd better change Python3 path file "python.exe" to "python3.exe", so you can type "python" for using Python2 and "python3" for using 
+Python3.
