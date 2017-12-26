@@ -1,3 +1,5 @@
-
-single clik "my computer" -- select "properties";
-select ""
+Let you know how to set Python path in Windows10 system, especially when you want to set different Python binaries(Python2 and Python3) in your computer.
+1. single clik "my computer" --> select "properties";
+2. select "high-level system setting" --> select "environment variable" --> select "Path", you can see some existing paths, make sure if all Python paths which you have set are already here.
+click "edit" --> select "edit text"
+3. find all Python path in your computer, if 
